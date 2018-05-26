@@ -1,0 +1,49 @@
+[13-Mar-2017 17:13:11 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[14-Mar-2017 16:40:23 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[14-Mar-2017 16:40:39 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[14-Mar-2017 16:40:45 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[17-Mar-2017 15:00:59 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[17-Mar-2017 15:02:48 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[17-Mar-2017 15:03:22 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[20-Mar-2017 10:54:36 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[20-Mar-2017 10:55:32 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[20-Mar-2017 10:55:42 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[21-Mar-2017 14:34:00 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[21-Mar-2017 14:47:14 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[22-Mar-2017 17:27:45 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[27-Mar-2017 17:23:10 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[31-Mar-2017 14:23:48 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[31-Mar-2017 14:42:58 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[31-Mar-2017 14:42:58 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 116
+[05-Apr-2017 19:04:37 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[05-Apr-2017 19:04:37 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 116
+[05-Apr-2017 19:05:15 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 113
+[05-Apr-2017 19:05:15 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 116
+[05-Apr-2017 19:05:47 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:05:47 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:05:47 Asia/Chongqing] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/matt/study/project/designmodel/test.php on line 116
+[05-Apr-2017 19:05:53 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:05:53 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:05:58 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:05:58 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:06:07 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:06:07 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:06:07 Asia/Chongqing] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/matt/study/project/designmodel/test.php on line 116
+[05-Apr-2017 19:06:20 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:06:20 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:06:27 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:06:27 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[05-Apr-2017 19:06:47 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[05-Apr-2017 19:06:47 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 10:55:15 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 10:55:15 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 10:55:30 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 10:55:30 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 11:00:56 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 11:00:56 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 11:01:16 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 11:01:16 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 11:01:20 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 11:01:20 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
+[10-Apr-2017 17:01:27 Asia/Chongqing] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/matt/study/project/designmodel/test.php on line 112
+[10-Apr-2017 17:01:27 Asia/Chongqing] PHP Notice:  Undefined index: HTTP_X_SCHEME in /home/matt/study/project/designmodel/test.php on line 115
